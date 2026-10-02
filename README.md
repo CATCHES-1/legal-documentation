@@ -19,22 +19,22 @@ These files always hold the current text of each document.
 
 ## Version history
 
-Each published version is a release tag. A tag is never moved or deleted once created, so a link to a tag always shows the text as it was on that date.
+Each published version is a release tag named after its publication date and version number, for example `v2026-10-02-v2`. The first version is `v2026-10-02`. A tag is never moved or deleted once created, so a link to a tag always shows the text as it was when that version was published.
 
 | Version | Published | What changed |
 | --- | --- | --- |
 | [v2026-10-02](https://github.com/CATCHES-1/legal-documentation/tree/v2026-10-02) | 2 October 2026 | First version in this repository. Text matches docs.catches.ai on this date. |
-| [v2026-10-02.2](https://github.com/CATCHES-1/legal-documentation/tree/v2026-10-02.2) | 2 October 2026 | Privacy Policy, Biometric Notice and Data Architecture framework updated to version 2.0. Terms of Service replaced by the Brand Terms of Use (`brand-terms-of-use.md`). End User Terms added. |
+| [v2026-10-02-v2](https://github.com/CATCHES-1/legal-documentation/tree/v2026-10-02-v2) | 2 October 2026 | Privacy Policy, Biometric Notice and Data Architecture framework updated to version 2.0. Terms of Service replaced by the Brand Terms of Use (`brand-terms-of-use.md`). End User Terms added. |
 
 ## Link to a specific version
 
 To reference a document in a contract, link to it at a release tag rather than at `main`:
 
-    https://github.com/CATCHES-1/legal-documentation/blob/v2026-10-02/terms-of-service.md
+    https://github.com/CATCHES-1/legal-documentation/blob/v2026-10-02-v2/privacy-policy.md
 
 To see every change between two versions, compare their tags:
 
-    https://github.com/CATCHES-1/legal-documentation/compare/v2026-10-02...vYYYY-MM-DD
+    https://github.com/CATCHES-1/legal-documentation/compare/v2026-10-02...v2026-10-02-v2
 
 ## Publish a new version
 
@@ -42,7 +42,7 @@ To see every change between two versions, compare their tags:
 2. In the same pull request, update the "Last updated" line in each changed document and add a row to the version history table above.
 3. Get approval from a code owner. The `main` branch accepts changes only through an approved pull request.
 4. Merge the pull request.
-5. Create a release tag named `vYYYY-MM-DD` on the merge commit, using the publication date.
+5. Create a release tag named `vYYYY-MM-DD-vN` on the merge commit, using the publication date and the next version number (for example `v2026-11-15-v3`).
 
 ## Copyright
 

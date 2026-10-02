@@ -4,7 +4,8 @@
 
 ## Publication
 
-- Publication date (becomes the release tag `vYYYY-MM-DD`):
+- Publication date:
+- Release tag (`vYYYY-MM-DD-vN`, for example `v2026-11-15-v3`):
 - Reviewed by (legal):
 
 ## Checklist
