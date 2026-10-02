@@ -12,7 +12,8 @@ These files always hold the current text of each document.
 | --- | --- |
 | CATCHES User Privacy Policy | [privacy-policy.md](privacy-policy.md) |
 | CATCHES Biometric Notice | [biometric-notice.md](biometric-notice.md) |
-| Terms of Service | [terms-of-service.md](terms-of-service.md) |
+| CATCHES Brand Terms of Use | [brand-terms-of-use.md](brand-terms-of-use.md) |
+| CATCHES End User Terms | [end-user-terms.md](end-user-terms.md) |
 | Data Architecture and Brand Integration Framework | [data-architecture.md](data-architecture.md) |
 | Our Position on Privacy, AI, and Trust and Safety | [privacy-ai-trust-safety.md](privacy-ai-trust-safety.md) |
 
@@ -23,6 +24,7 @@ Each published version is a release tag. A tag is never moved or deleted once cr
 | Version | Published | What changed |
 | --- | --- | --- |
 | [v2026-10-02](https://github.com/CATCHES-1/legal-documentation/tree/v2026-10-02) | 2 October 2026 | First version in this repository. Text matches docs.catches.ai on this date. |
+| [v2026-10-02.2](https://github.com/CATCHES-1/legal-documentation/tree/v2026-10-02.2) | 2 October 2026 | Privacy Policy, Biometric Notice and Data Architecture framework updated to version 2.0. Terms of Service replaced by the Brand Terms of Use (`brand-terms-of-use.md`). End User Terms added. |
 
 ## Link to a specific version
 

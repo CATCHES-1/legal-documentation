@@ -1,61 +1,64 @@
 # CATCHES Biometric Notice
 
-Last updated: April 2026
+**Last updated: 2 October 2026** · Version 2.0
 
-CATCHES Limited (company number 10804799) (“CATCHES,” “we,” “our,” or “us”) operates the CATCHES virtual try-on platform and related applications (collectively, the “Service”), including the CATCHES Virtual Try-On widget (the “VTO Widget”). This Biometric Notice supplements the CATCHES Privacy Policy and explains how we collect, use, store, and protect biometric data when you interact with the Service.
+This Biometric Notice is CATCHES Limited's public written policy on biometric data, including our retention schedule and our guidelines for destroying biometric data. It supplements the [CATCHES User Privacy Policy](https://docs.catches.ai/catches-app-privacy-policy-sh). Questions: privacy@catches.ai.
 
-If you have any questions about this Biometric Notice or our biometric data practices, please contact us at: privacy@catches.ai.
+## 1. What we collect
 
-## 1. What We Collect
+When you upload a photograph, our VTO engine derives measurements of your body geometry and proportions from it. We use these to build a digital model of you (your "digital twin") that shows how garments fit you. Some laws treat this as a "biometric identifier" or "biometric data", such as a scan of face or body geometry. Whatever the legal classification, we treat it as biometric data.
 
-Our VTO engine derives body geometry, physical characteristics, and body composition measurements from your submitted photograph to create a digital representation of your body (“digital twin”) for garment fit simulation. This category of data may be classified as a biometric identifier under certain applicable privacy laws; regardless of classification, CATCHES treats it as biometric data and protects it accordingly.
+We do not use biometric data to identify you, to recognise your face, to authenticate you, or to infer your age, ethnicity or health.
 
-## 2. Purpose
+## 2. Why we collect it
 
-We collect and use biometric data solely to generate personalized virtual try-on experiences that accurately simulate how garments will fit, drape, and move on your body. We do not use biometric data for identification, authentication, or any purpose other than delivering the virtual try-on result you have requested.
+Only to create the virtual try-on result you ask for and, if you have an account and choose to keep your digital twin, to let you reuse it.
 
-## 3. Consent
+## 3. Your consent
 
-We will not collect, capture, or otherwise obtain your biometric data without first:
+Before we collect any biometric data, we:
 
-- Providing you with written notice that biometric data is being collected or stored;
-- Informing you in writing of the specific purpose and length of time for which your biometric data will be collected, stored, and used; and
-- Receiving your informed, written consent.
+1. tell you in writing that biometric data will be collected and stored;
+2. tell you in writing the specific purpose and how long we will keep it; and
+3. ask for your written consent, given by ticking a box, which is your electronic signature.
 
-Before any photograph is processed, you will be presented with a disclosure describing the data that will be derived from your image, followed by a required consent checkbox. The system cannot process your photograph without this affirmative consent.
+The system cannot process your photograph without this consent. We keep a record of each consent (date, time, wording version and what you agreed to) for at least 5 years. If you have not interacted with us for 24 months, we will ask for your consent again before using any biometric data.
 
-## 4. Retention and Destruction
+## 4. Retention and destruction schedule
 
-Biometric data is retained only for as long as necessary to fulfill the purpose for which it was collected, and in no event longer than 3 years, or when the purpose has been satisfied, whichever comes first.
+We permanently destroy biometric data at the **earliest** of:
 
-| User Type | Retention Period |
+| Event | When we destroy it |
 | --- | --- |
-| Without an account | Deleted 30 days after your last interaction with the Service. |
-| With an account | Retained for up to 3 years. Before the expiration of this period, CATCHES will notify you and request renewed consent. If you do not renew, your biometric data will be permanently deleted. |
+| No account: purpose fulfilled | 30 days after your last interaction with the Service |
+| You withdraw consent or delete your account | Within 30 days |
+| Account inactive | 24 months after your last interaction |
+| Annual review finds it is no longer needed | Within 45 days of that review |
+| A shorter period required by the law where you live | That shorter period (for Texas residents, no later than one year after the purpose ends) |
 
-Upon satisfaction of the initial purpose or expiration of the retention period, biometric data is permanently destroyed in accordance with CATCHES’ data retention and destruction policies.
+We destroy it by deleting it from live systems. Backup copies are overwritten within 35 days. We review our retention of biometric data at least once a year.
 
-## 5. Withdrawal of Consent
+## 5. Withdrawing consent
 
-Account holders may withdraw their consent to biometric data retention at any time through their account settings. Upon withdrawal, all biometric data, photographs, and derived measurements are permanently deleted. Withdrawal does not require deletion of your account. Your account is retained and photo-based features revert to session-only mode (processed and deleted after each session).
+You can withdraw consent at any time in your account settings, in the VTO Widget, or by emailing privacy@catches.ai. We then delete your biometric data, photographs and measurements within 30 days. Your account can remain, and photo features will work for single sessions only.
 
 ## 6. Disclosure
 
-We do not sell, lease, trade, or otherwise profit from your biometric data. We do not disclose biometric data to third parties except to our authorized sub-processors to the extent necessary to provide the Service, or as required by law. All sub-processors are bound by contractual obligations at least as protective as those in the [CATCHES Privacy Policy](privacy-policy.md).
+We do not sell, lease, trade or otherwise profit from biometric data. We do not share it with merchants. We disclose it only to the service providers who process it for us under written contracts (a list is available on request from privacy@catches.ai), or where the law or a valid legal order requires it. Service providers may not use it for any other purpose, including training their own models. We do not use biometric data to train our AI models.
 
-## 7. Storage and Protection
+## 7. Storage and protection
 
-Biometric data is stored using a reasonable standard of care and in a manner at least as protective as the measures used to protect other confidential and sensitive information. Biometric data is encrypted in transit and at rest. For additional information on our security practices, please see the Security section of the [CATCHES Privacy Policy](privacy-policy.md).
+We store biometric data with at least the care we use for our most sensitive confidential information. It is encrypted in transit and at rest, kept separate from account details, and accessible only to authorised staff using multi-factor authentication. See section 6 of the Privacy Policy.
 
-## 8. Contact Us
+## 8. If something goes wrong
 
-If you have any questions or comments about this Biometric Notice or our biometric data practices, or if you would like to exercise your rights with respect to your biometric data, please contact us at:
+If we find that biometric data has been accessed or disclosed without authority, we will:
 
-**CATCHES Limited**\
-**Apartment 503, 9 Clerkenwell Road, London, England, EC1M 5PN**
+1. contain the incident and assess the risk within 24 hours;
+2. tell affected people without undue delay and within the time the law requires;
+3. tell regulators where the law requires it (in the UK, the ICO, within 72 hours); and
+4. tell the merchant on whose website the data was collected within 72 hours.
 
-Data Protection Contact: andy@catches.ai
+## 9. Contact
 
-Email: privacy@catches.ai
-
-EU Representative: andy@catches.ai
+CATCHES Limited, 503, 9 Clerkenwell Road, London, England, EC1M 5PN · privacy@catches.ai · Data Protection Officer: Joshua Huburn, privacy@catches.ai · EU representative: Joshua Huburn, privacy@catches.ai
