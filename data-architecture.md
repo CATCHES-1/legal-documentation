@@ -1,6 +1,6 @@
 # Data Architecture and Brand Integration Framework
 
-**CATCHES Limited · Internal and confidential · Version 2.0, 2 October 2026**
+**CATCHES Limited · Version 2.0, 2 October 2026**
 
 ## 1. Principles
 
